@@ -1,1 +1,1 @@
-# quantum-ternary-converter
+#[ModKit Wiki](../../wiki)
